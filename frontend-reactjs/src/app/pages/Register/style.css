@@ -1,0 +1,10 @@
+.card-register{
+    width: 50%;
+    margin: 150px auto;
+}
+
+@media screen and (max-width:600px){
+    .card-register{
+        width: 100%;
+    }
+}
