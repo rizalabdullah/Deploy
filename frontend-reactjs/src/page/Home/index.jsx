@@ -115,7 +115,7 @@ const Home = () => {
                         <i class="fas fa-align-justify"></i>
                     </button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                        <ul class="nav navbar-nav ml-auto">
+                        <ul class="nav navbar-nav ml-auto ">
                           <form class="form-inline">
                             <input class="form-control mr-sm-2 fa fa-search search" type="search" placeholder="&#xF002; Search" aria-label="Search" />
                           </form>
